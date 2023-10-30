@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 html {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 16px;
 }
 
@@ -63,13 +64,13 @@ span {
   text-align: center;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-footer{
-    text-align: center;
-    color: white;
-    height: 50px;
-    font-size: 20px;
+footer {
+  text-align: center;
+  color: white;
+  height: 50px;
+  font-size: 20px;
 }
